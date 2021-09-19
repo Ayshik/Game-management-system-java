@@ -1,0 +1,5 @@
+open xammp control panel after installing then start apache and MySQl before working on project
+create a database named "information" then import the file "information"
+
+
+watch this to view tables: https://www.youtube.com/watch?v=4nvTwvfWt7I
